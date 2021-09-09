@@ -1,0 +1,9 @@
+.wrapper {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background: url(/src/images/pattern-background-mobile.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 50px 0;
+}

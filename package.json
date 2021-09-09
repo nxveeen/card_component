@@ -2,11 +2,10 @@
   "name": "order-summary-component-main",
   "version": "1.0.0",
   "description": "![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)",
-  "main": "index.js",
-  "source": "index.html",
+  "main": "main.js",
   "scripts": {
-    "dev": "parcel",
-    "build": "parcel build"
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",

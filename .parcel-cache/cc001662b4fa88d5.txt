@@ -1,7 +1,7 @@
-17314
+17317
 99C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\lodash\fp\dropRightWhile.js121436361000000000 0
 108C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\utility-types\dist\mapped-types.d.ts121436361000000000 0
-71C:\Users\Naveen\Desktop\myapp\order-summary-component-main\package.json132756760682655025 0
+71C:\Users\Naveen\Desktop\myapp\order-summary-component-main\package.json132756790144530310 0
 103C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\caniuse-lite\data\regions\BI.js121436361000000000 0
 127C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\sharp\vendor\8.10.6\include\glib-2.0\gio\gcancellable.h132612604640000000 0
 95C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\ajv\lib\dot\pattern.jst121436361000000000 0
@@ -9,7 +9,7 @@
 67C:\Users\Naveen\Desktop\myapp\order-summary-component-main\src\sass132756644485989873 1
 123C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\jsdom\lib\jsdom\living\generated\HTMLHtmlElement.js121436361000000000 0
 94C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\is-plain-obj\readme.md121436361000000000 0
-63C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist132756760381335423 1
+63C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist132756815848389730 1
 93C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\node-forge\lib\pki.js121436361000000000 0
 81C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\path-type132756622630371426 1
 137C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.d.ts121436361000000000 0
@@ -67,7 +67,7 @@
 83C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\has-symbols132756622638039597 1
 115C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\postcss-modules-values\node_modules\postcss132756622628504433 1
 78C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\wrappy132756622618805019 1
-69C:\Users\Naveen\Desktop\myapp\order-summary-component-main\index.html132756644960218743 0
+69C:\Users\Naveen\Desktop\myapp\order-summary-component-main\index.html132756815846550607 0
 104C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\postcss-modules-local-by-default132756622628504433 1
 88C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\napi-build-utils132756624004380317 1
 91C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\colorette\index.cjs121436361000000000 0
@@ -106,7 +106,7 @@
 98C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\asn1.js\lib\asn1\constants132756622527665375 1
 111C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\fast-glob\out\providers\filters\deep.js121436361000000000 0
 116C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\@babel\types\scripts\utils\toFunctionName.js121012626000000000 0
-81C:\Users\Naveen\Desktop\myapp\order-summary-component-main\src\sass\_globals.scss132756635724480958 0
+81C:\Users\Naveen\Desktop\myapp\order-summary-component-main\src\sass\_globals.scss132756808731770103 0
 84C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\cssnano\dist132756622504529920 1
 128C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\postcss-modules-values\node_modules\postcss\lib\input.js121436361000000000 0
 68C:\Users\Naveen\Desktop\myapp\order-summary-component-main\README.md132734191320000000 0
@@ -171,16 +171,16 @@
 103C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\caniuse-lite\data\regions\MQ.js121436361000000000 0
 95C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\supports-color\index.js121436361000000000 0
 104C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\@parcel\packager-js\src\utils.js121436361000000000 0
-77C:\Users\Naveen\Desktop\myapp\order-summary-component-main\src\sass\main.scss132756760379885906 0
+77C:\Users\Naveen\Desktop\myapp\order-summary-component-main\src\sass\main.scss132756810704120806 0
 112C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\core-js\modules\es.regexp.constructor.js121436361000000000 0
 84C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\lodash.clone132756622633962689 1
 90C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\filesize\README.md121436361000000000 0
 101C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\readable-stream\GOVERNANCE.md121436361000000000 0
-83C:\Users\Naveen\Desktop\myapp\order-summary-component-main\src\sass\_container.scss132756760369255800 0
+83C:\Users\Naveen\Desktop\myapp\order-summary-component-main\src\sass\_container.scss132756815138925386 0
 109C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\es-abstract\2020\Number\unaryMinus.js121436361000000000 0
-83C:\Users\Naveen\Desktop\myapp\order-summary-component-main\src\sass\_variables.scss132756634061680861 0
+83C:\Users\Naveen\Desktop\myapp\order-summary-component-main\src\sass\_variables.scss132756808939974770 0
 119C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\postcss-modules-scope\node_modules\postcss\docs132756622532277819 1
-81C:\Users\Naveen\Desktop\myapp\order-summary-component-main\src\sass\_wrapper.scss132756759131097730 0
+81C:\Users\Naveen\Desktop\myapp\order-summary-component-main\src\sass\_wrapper.scss132756795267459641 0
 109C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\parse5\lib\extensions\error-reporting132756622533997015 1
 105C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\highlight.js\lib\languages\mel.js121436361000000000 0
 110C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\es-abstract\2017\SpeciesConstructor.js121436361000000000 0
@@ -212,7 +212,7 @@
 137C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\sharp\vendor\8.10.6\include\glib-2.0\glib\deprecated\gallocator.h132612604640000000 0
 146C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-exclude132756622535478889 1
 107C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\highlight.js\styles\kimbie.dark.css121436361000000000 0
-73C:\Users\Naveen\Desktop\myapp\order-summary-component-main\src\js\main.js132756647695557326 0
+73C:\Users\Naveen\Desktop\myapp\order-summary-component-main\src\js\main.js132756807450830429 0
 100C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\highlight.js\scss\docco.scss121436361000000000 0
 91C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\braces\CHANGELOG.md121436361000000000 0
 109C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\highlight.js\styles\arduino-light.css121436361000000000 0
@@ -2195,7 +2195,7 @@
 119C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\wide-align\node_modules\is-fullwidth-code-point132756624004540367 1
 118C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\sharp\vendor\8.10.6\include\vips\interpolate.h132612604640000000 0
 101C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\es-abstract\5\DateFromTime.js121436361000000000 0
-85C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\index.4645a5bb.js.map132756760381325442 0
+85C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\index.4645a5bb.js.map132756810708624058 0
 86C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\object-inspect132756622631812667 1
 113C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\caniuse-lite\data\features\flexbox-gap.js121436361000000000 0
 94C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\nth-check\lib\parse.js121436361000000000 0
@@ -7228,6 +7228,7 @@
 100C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\@parcel\cache\lib\types.d.ts121436361000000000 0
 110C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\@swc\helpers\src\_wrap_native_super.js132732112500000000 0
 93C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\randombytes\.zuul.yml121436361000000000 0
+94C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\illustration-hero.4cc5396e.svg132756804501263513 0
 94C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\randombytes\browser.js121436361000000000 0
 94C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\nanoid\async\index.cjs121436361000000000 0
 91C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\randombytes\test.js121436361000000000 0
@@ -8713,7 +8714,7 @@
 123C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\is-negative-zero\.github\workflows\node-pretest.yml121436361000000000 0
 110C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\core-js\features\array\virtual\fill.js121436361000000000 0
 95C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\buffer-xor\package.json132756622640643306 0
-103C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\pattern-background-desktop.310346be.svg132756760381215400 0
+103C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\pattern-background-desktop.310346be.svg132756795070474883 0
 89C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\path-key\index.js131193607240000000 0
 88C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\is-docker\cli.js121436361000000000 0
 88C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\path-key\license130412725910000000 0
@@ -14979,6 +14980,7 @@
 102C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\core-js\features\math\scale.js121436361000000000 0
 113C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\console-browserify\test\static\index.html121436361000000000 0
 108C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\core-js\features\math\seeded-prng.js121436361000000000 0
+87C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\icon-music.5a84f951.svg132756810707763858 0
 101C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\core-js\features\math\sign.js121436361000000000 0
 117C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\@parcel\core\src\public\MutableBundleGraph.js121436361000000000 0
 104C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\core-js\features\math\signbit.js121436361000000000 0
@@ -15755,7 +15757,7 @@
 125C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\caniuse-lite\data\features\stricttransportsecurity.js121436361000000000 0
 113C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\caniuse-lite\data\features\svg-filters.js121436361000000000 0
 114C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\caniuse-lite\data\features\svg-fragment.js121436361000000000 0
-90C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\favicon-32x32.eadba332.png132756758634764194 0
+90C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\favicon-32x32.eadba332.png132756810707433838 0
 110C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\caniuse-lite\data\features\svg-html.js121436361000000000 0
 111C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\caniuse-lite\data\features\svg-html5.js121436361000000000 0
 110C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\caniuse-lite\data\features\svg-smil.js121436361000000000 0
@@ -16720,7 +16722,7 @@
 108C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\@parcel\core\src\summarizeRequest.js121436361000000000 0
 115C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\@parcel\core\src\TargetDescriptor.schema.js121436361000000000 0
 97C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\@parcel\core\src\utils.js121436361000000000 0
-81C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\index.4645a5bb.js132756760381295433 0
+81C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\index.4645a5bb.js132756810708564055 0
 118C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\@parcel\core\src\requests\AssetGraphRequest.js121436361000000000 0
 113C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\@parcel\core\src\requests\EntryRequest.js121436361000000000 0
 119C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\@parcel\core\src\requests\ParcelBuildRequest.js121436361000000000 0
@@ -17306,10 +17308,11 @@
 82C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\.bin\which132756622646804224 0
 86C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\.bin\which.cmd132756622646804224 0
 86C:\Users\Naveen\Desktop\myapp\order-summary-component-main\node_modules\.bin\which.ps1132756622646804224 0
-82C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\index.fa02a0b5.css132756760381295433 0
-86C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\index.fa02a0b5.css.map132756760381325442 0
-74C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\index.html132756760381295433 0
+82C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\index.fa02a0b5.css132756815139913456 0
+86C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\index.fa02a0b5.css.map132756815139942049 0
+74C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\index.html132756804501703595 0
 108C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\order-summary-component-main.4139e2a3.js.map132756626458672636 0
+102C:\Users\Naveen\Desktop\myapp\order-summary-component-main\dist\pattern-background-mobile.7c3046cb.svg132756804501613609 0
 83C:\Users\Naveen\Desktop\myapp\order-summary-component-main\design\active-states.jpg132734191320000000 0
 85C:\Users\Naveen\Desktop\myapp\order-summary-component-main\design\desktop-preview.jpg132734191320000000 0
 83C:\Users\Naveen\Desktop\myapp\order-summary-component-main\design\mobile-design.jpg132734191320000000 0

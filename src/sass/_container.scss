@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 50%;
+  max-width: 440px;
+  min-width: 320px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: rgba(33, 35, 38, 0.2) 0px 32px 14px -21px;
+  // box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px; //first choice
+  // box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px; //second choice
+
+  .div1 {
+    flex: 2;
+    background-image: url(/src/images/illustration-hero.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px 20px 0 0;
+  }
+
+  .div2 {
+    flex: 5;
+    margin: auto;
+    padding: 2rem 1rem;
+    text-align: center;
+
+    h3 {
+      font-weight: 900;
+      font-size: 1.25rem;
+      color: $dark-blue;
+    }
+
+    p {
+      margin: 1rem 0.5rem;
+      line-height: 1.5;
+      color: $desaturated-blue;
+    }
+
+    .plan {
+      display: flex;
+      height: 80px;
+      padding: 1rem;
+      background-color: $very-pale-blue;
+      border-radius: 12px;
+    }
+  }
+}
