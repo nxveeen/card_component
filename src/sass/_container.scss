@@ -1,7 +1,6 @@
 .container {
   display: flex;
   flex-direction: column;
-  height: 100%;
   width: 50%;
   max-width: 440px;
   min-width: 320px;
@@ -12,19 +11,31 @@
   // box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px; //second choice
 
   .div1 {
-    flex: 2;
+    height: 160px;
     background-image: url(/src/images/illustration-hero.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px 20px 0 0;
+
+    @include breakpoint("tablet") {
+      height: 220px;
+    }
   }
 
   .div2 {
-    flex: 5;
-    margin: auto;
     padding: 2rem 1rem;
+    padding-bottom: 0;
     text-align: center;
+
+    @include breakpoint("tablet") {
+      padding: 2rem 3rem;
+      padding-bottom: 0;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
 
     h3 {
       font-weight: 900;
@@ -36,14 +47,72 @@
       margin: 1rem 0.5rem;
       line-height: 1.5;
       color: $desaturated-blue;
+
+      @include breakpoint("tablet") {
+        margin: unset;
+      }
     }
 
-    .plan {
+    .plan__container {
       display: flex;
+      align-items: center;
+      justify-content: space-between;
       height: 80px;
       padding: 1rem;
-      background-color: $very-pale-blue;
+      background-color: #f5f7ff;
       border-radius: 12px;
+
+      .plan {
+        display: flex;
+        gap: 1rem;
+        align-items: center;
+      }
+
+      .plan__type {
+        p {
+          margin: 0;
+        }
+
+        .type {
+          color: $dark-blue;
+          font-weight: 700;
+        }
+
+        .amount {
+          font-size: 1rem;
+        }
+      }
+
+      .plan__change {
+        font-weight: 700;
+        text-decoration: underline;
+      }
+    }
+
+    .btn__container {
+      padding: 1rem 0;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+
+      .btn {
+        width: 100%;
+        height: 3rem;
+        border: none;
+        background-color: $bright-blue;
+        color: $very-pale-blue;
+        border-radius: 12px;
+        font-size: 1rem;
+        font-weight: 700;
+        // box-shadow: $bright-blue 0px 32px 14px -21px;
+        box-shadow: #3829e0 0px 19px 42px -16px;
+
+        &__cancel {
+          background-color: unset;
+          box-shadow: none;
+          color: $desaturated-blue;
+        }
+      }
     }
   }
 }
