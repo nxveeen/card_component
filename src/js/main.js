@@ -1,2 +1,8 @@
 "use strict";
-console.log("hello");
+const anchors = document.querySelectorAll("a");
+
+anchors.forEach((a) => {
+  a.addEventListener("click", function (e) {
+    e.preventDefault();
+  });
+});

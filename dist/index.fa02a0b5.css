@@ -115,6 +115,9 @@ a {
   font-weight: 700;
   text-decoration: underline;
 }
+.container .div2 .plan__container .plan__change:hover {
+  text-decoration: none;
+}
 .container .div2 .btn__container {
   padding: 1rem 0;
   display: flex;
@@ -131,10 +134,19 @@ a {
   font-size: 1rem;
   font-weight: 700;
   box-shadow: #3829e0 0px 19px 42px -16px;
+  cursor: pointer;
+}
+.container .div2 .btn__container .btn:hover {
+  background-color: #766cf1;
 }
 .container .div2 .btn__container .btn__cancel {
   background-color: unset;
-  box-shadow: none;
   color: #7280a7;
+  box-shadow: none;
+}
+.container .div2 .btn__container .btn__cancel:hover {
+  color: #1f2f56;
+  background-color: unset;
+  box-shadow: none;
 }
 /*# sourceMappingURL=index.fa02a0b5.css.map */

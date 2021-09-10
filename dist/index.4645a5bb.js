@@ -456,7 +456,12 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"38Jk0":[function(require,module,exports) {
 "use strict";
-console.log("hello");
+const anchors = document.querySelectorAll("a");
+anchors.forEach((a)=>{
+    a.addEventListener("click", function(e) {
+        e.preventDefault();
+    });
+});
 
 },{}]},["lDN0V","38Jk0"], "38Jk0", "parcelRequire3c7d")
 
